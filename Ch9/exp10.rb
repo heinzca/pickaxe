@@ -42,6 +42,7 @@ for genre in periods
 end
 puts
 puts "break and next example ..."
+# next skips to the end of the loop effectively starting teh next iteration
 i=0
 loop do
   i+=1
